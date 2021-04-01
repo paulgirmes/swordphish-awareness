@@ -1,1 +1,1 @@
-web: gunicorn CC_ERP.wsgi --log-file -
+web: gunicorn swordphish.wsgi --log-file -
