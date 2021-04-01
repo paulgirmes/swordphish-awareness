@@ -1,1 +1,1 @@
-web: gunicorn swordphish.wsgi --log-file -
+web: gunicorn Swordphish.wsgi --log-file -
